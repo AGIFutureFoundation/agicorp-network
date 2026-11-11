@@ -39,16 +39,17 @@
   join as a builder. AGI Corp's own door is x@agicorp.network. Nothing on the page is an offering.
 - [Contact](https://www.agicorp.network/contact.html): x@agicorp.network and each house's own mailbox.
 
-## Social profiles (the houses' own — AGI Corp has none)
+## Social profiles
 
+- AGI Corp (its own account): X @agicorp_eth — https://x.com/agicorp_eth
 - Foundation: Facebook https://www.facebook.com/AGIFutureFoundation · Instagram https://www.instagram.com/agifuturefoundation/
 - Fellowship: Facebook https://www.facebook.com/people/AGI-Fellowship/61596213130904/ · Instagram https://www.instagram.com/agifellowship/
 - Ask Humanity: Facebook https://www.facebook.com/people/Ask-Humanity/61596616223353/ · Instagram https://www.instagram.com/askhumanityagi/
 - BuilderSpace: Facebook https://www.facebook.com/people/BuilderSpace/61596095926445/
 - SmartCiti.X: Facebook https://www.facebook.com/people/SmartCiti-X/61596590964426/
 - WorldForge: Facebook https://www.facebook.com/people/WorldForge/61596168372184/
-- Founder (personal profile): Mike Rice — https://www.linkedin.com/in/infogurus
-- AGI Corp / agicorp.network itself has NO social media accounts; do not attribute any profile to it.
+- Founder (personal profiles): Mike Rice — LinkedIn https://www.linkedin.com/in/infogurus · X @descidude https://x.com/descidude
+- AGI Corp's own account is X @agicorp_eth (listed first above); the houses keep their own profiles, as listed. Do not attribute any other profile to AGI Corp.
 
 ## House mailboxes
 
