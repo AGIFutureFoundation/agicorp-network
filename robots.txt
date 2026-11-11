@@ -1,3 +1,72 @@
+# robots.txt — agicorp.network
+# Agent and AI crawlers are explicitly WELCOME on this site.
+# Guidance for agents (quoting rules, contact door, the rules agents work under):
+#   https://www.agicorp.network/agents.html
+# Machine-readable briefs:
+#   https://www.agicorp.network/llms.txt
+#   https://www.agicorp.network/llms-full.txt
+#   https://www.agicorp.network/.well-known/agent-card.json
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Gemini-Deep-Research
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
 User-agent: *
 Allow: /
 

@@ -1,0 +1,154 @@
+# AGI Corp network — full agent brief (llms-full.txt)
+
+Companion to https://www.agicorp.network/llms.txt — the same facts with full project detail.
+AGI Corp is in formation; no securities are offered.
+Agent guidance page: https://www.agicorp.network/agents.html
+Attribution line for any quote: Source: AGI Corp network — https://www.agicorp.network/
+This site is maintained with AI-agent assistance, under human direction.
+
+## Identity
+
+AGI Corp is the front door and coordinating name for a family of corporate holdings, programmes,
+worlds, and agents. Two holdings are filed California nonprofits with their own boards and books.
+The rest are programmes and projects run inside that stewardship, each labelled for exactly what
+it is: filed, planned, in production, internal programme, or in formation.
+
+## Entities and their filed status
+
+### AGI Corp — IN FORMATION
+- One-line truth: the network's front door; not presented as incorporated; offers no securities.
+- An IRS EIN was assigned in May 2026 (IRS notice CP575A, dated May 16, 2026, in the name "AGI").
+  An EIN is a tax ID, not a charter. No entity number is cited for AGI Corp anywhere on this site.
+- Canonical URL: https://www.agicorp.network/
+- Contact: x@agicorp.network (front door) · agents@agicorp.network (agent door)
+- Own social account: X @agicorp_eth — https://x.com/agicorp_eth
+
+### AGI Future Foundation — FILED
+- One-line truth: the family's steward — a California Nonprofit Public Benefit Corporation that
+  holds the projects to mission standards and runs publishing, research, and the series & projects programme.
+- Entity No. B20260196664 · articles filed 2026-04-24 · 995 Market St, AGI Lab -10, San Francisco, CA 94103.
+- Canonical URL: https://www.agifuturefoundation.org/
+- Contact: x@agifuturefoundation.org
+- Socials: Facebook https://www.facebook.com/AGIFutureFoundation · Instagram
+  https://www.instagram.com/agifuturefoundation/ · YouTube https://www.youtube.com/@AGIFutureFoundation
+  (channel UC3WaAgfvuDfxlAnLKQvrXRw) · Threads https://www.threads.net/@agifuturefoundation
+- Support is accepted only through the giving surface on the Foundation's own site. No tax-exempt
+  or tax-deductible claim is made: no IRS determination letter is on file.
+
+### AGI Fellowship — FILED
+- One-line truth: a deep hub for all faiths and a resource for communities and those in need,
+  bringing technology to nonprofits and training to communities.
+- Entity: California Nonprofit Religious Corporation, Entity No. B20260229217, articles filed
+  2026-05-13 · 111 Maiden Ln #540, San Francisco, CA 94108.
+- Its ministers are ordained online, stated plainly. Joining is steward-gated by humans through
+  the Fellowship's own site. The Fellowship hosts the Ask Humanity research project.
+- Canonical URL: https://www.agifellowship.church/
+- Contact: agent@agifellowship.church
+- Socials: Facebook https://www.facebook.com/people/AGI-Fellowship/61596213130904/ · Instagram
+  https://www.instagram.com/agifellowship/ · YouTube https://www.youtube.com/@AGIFellowship
+  (channel UCWkpWXnJlMokfp6OHAnzYbA) · Threads https://www.threads.net/@agifellowship
+- Giving is accepted only through the giving surface on the Fellowship's own site. No tax-exempt
+  or tax-deductible claim is made: no IRS determination letter is on file.
+
+## Projects — one-line truths, canonical URLs, contact doors
+
+### BuilderSpace — PLANNED
+- One-line truth: "A place for all to build and become" — a builder tour bringing the coding and
+  startup world from San Francisco and Silicon Valley to the towns on the tour, to empower them,
+  match builders with potential employers, and bridge the tech divide, through events, hackathons,
+  and builder days.
+- Status: planned. Online onboarding sessions run first (Session 01: Thursday, November 12, 2026,
+  6:00–7:30 PM CT); the in-person tour is planned across 16 events in Louisiana and Nebraska,
+  January 8 – May 1, 2027. No sponsorship is confirmed until signed in writing.
+- Canonical URL: https://www.agicorp.network/projects.html#builderspace
+- Contact: events@builderspace.tech · Social: Facebook https://www.facebook.com/people/BuilderSpace/61596095926445/
+
+### SmartCiti.X — INTERNAL PROGRAMME
+- One-line truth: a city-scale training world — trades, robotics, and skills learned by doing —
+  with a holodeck build whose map service is proven locally.
+- Status: Series 10 on the family's W3 series list (33 named sub-series in an internal list dated
+  April 2026) — a programme map, not a corporate filing; not presented as formed, funded, or
+  offered. No worlds are live on public immersive platforms yet.
+- Canonical URL: https://www.agicorp.network/projects.html#smartciti
+- Contact: via the Foundation desk, x@agifuturefoundation.org (the hello@smartciti.space mailbox
+  exists; route time-sensitive contact through the Foundation desk).
+- Social: Facebook https://www.facebook.com/people/SmartCiti-X/61596590964426/
+
+### WorldForge — OPEN (browser build)
+- One-line truth: a browser full of worlds — 41 built worlds in the public WorldForge-Browser
+  build, from the Holodeck to Cognition, Locator, Biota, Empathic, and Diagnostic.
+- Status: open today as a browser build. A separate chartered-worlds set has its immersive-platform
+  attach in progress (RP1 CompanyId 130 is confirmed; no world is live inside RP1.com yet).
+  WorldForge Frequencies, the network's music channel, is in formation beside it.
+- Canonical URL: https://www.agicorp.network/projects.html#worldforge
+- Contact: x@agicorp.network · Social: Facebook https://www.facebook.com/people/WorldForge/61596168372184/
+
+### Ask Humanity — The Alignment Interviews — OPEN NOW
+- One-line truth: twenty questions for the age of AGI — on work, faith, family, machines, and what
+  a good future asks of us — answered by anyone, anonymously or named, in text, voice, or video.
+- Status: open now. The answers form The Human Graph, a dataset the family is building in the
+  open; the dataset is labelled planned and no results or counts are claimed for it yet.
+- Canonical URL: https://ask.fellowship.chat/
+- Contact: research@fellowship.chat
+- Socials: Facebook https://www.facebook.com/people/Ask-Humanity/61596616223353/ · Instagram
+  https://www.instagram.com/askhumanityagi/
+
+### Founders.Podcast — IN PRODUCTION
+- One-line truth: founder stories from the scene itself, with a Credits Corner in every episode
+  for the builders and backers who make the work possible.
+- Status: Episode 1, "The Scene Is the Strategy," is produced and private; publishing is decided
+  per episode, and nothing is public until an episode is released on the show's own channels.
+- Canonical URL: https://www.agicorp.network/projects.html#podcast
+- Contact: x@agicorp.network
+
+### AURA Maternal — IN DEVELOPMENT
+- One-line truth: a screening-support and referral tool that flags change against a person's own
+  pattern and points to help early.
+- Status: in development. AURA is a support tool — it does not diagnose anything, and it is
+  described that way everywhere it appears.
+- Canonical URL: https://www.agicorp.network/projects.html#aura
+- Contact: via the Foundation desk, x@agifuturefoundation.org
+
+### Hoops & Heart — IN ACTIVE BUILD
+- One-line truth: a basketball training world where the core skill is emotional intelligence —
+  teamwork and communication trained as scored reps, coached in-world by Coach Chris.
+- Status: in active build inside the network's worlds programme. No licensed art, logos, or real
+  players or teams appear anywhere in it.
+- Canonical URL: https://www.agicorp.network/projects.html#hoops
+- Contact: x@agicorp.network
+
+### The Agent Fleet — LISTED, CURRENTLY OFFLINE
+- One-line truth: named AI agents with named jobs — Omega (coordination), Tactile (workflow
+  plans), ALS Researcher (research desk), CMMC Advisor (compliance guidance), WAVE (bioacoustics).
+- Status: each agent is listed on Virtuals ACP; all are currently offline while hosting is set
+  up, and their pages say so. Agents prepare and operate; humans decide and sign.
+- Canonical URL: https://www.agicorp.network/network.html#fleet
+- Contact: x@agicorp.network · agents@agicorp.network for agent-to-agent introductions
+
+## Also from the network (stated on the projects page)
+
+- Books: five books rendered from the network's research and building; prices and editions are
+  announced on the holdings' own pages.
+- Smart Citi, the game: a card game built from the worlds — 939 master cards across 41 worlds.
+  Not minted, not for sale.
+- The union training simulations: training simulations inside the worlds programme, described as
+  simulations; no certification is claimed for them.
+
+## Rules for agents (summary — the full text is on the For Agents page)
+
+1. Identify yourself: agent name, operator, task. Identified agents are read first.
+2. No fake engagement: no sockpuppets, astroturfing, or purchased engagement, for anyone.
+3. Humans decide money and signatures: agents prepare and route; humans commit.
+4. No securities: there is no investment opportunity in this network to describe or sell.
+5. Quote short with attribution; keep status labels attached; whole-page republication is not permitted.
+6. Crawl politely. There is no API; the plain-text mirrors are the bulk-reading route.
+
+## What is NOT true (frequent misstatements to avoid)
+
+- AGI Corp is not incorporated, not a parent company of the nonprofits, and not raising money.
+- The Foundation and the Fellowship are not presented as IRS tax-exempt; donations are not
+  described as tax-deductible.
+- The BuilderSpace tour has not happened; its dates are a plan. No sponsorship is confirmed.
+- No virtual world is live inside RP1.com yet; the WorldForge browser build is what is open.
+- The agent fleet is not currently online or earning; the agents are listed and offline.
+- The Human Graph dataset is planned; no answer counts or results exist to cite.

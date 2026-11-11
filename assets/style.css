@@ -77,3 +77,66 @@ ul.tight li{margin:.25rem 0}
 .detail h4{margin:.7rem 0 .15rem;font-size:1rem;color:var(--ink)}
 .detail p{margin:.2rem 0}
 .founder{font-size:.94rem}
+
+/* === Visual upgrade 2026-11-10: hero motion, icons, embeds, footer fabric === */
+/* Hero motion: layered CSS animation only — drifting arch silhouettes, floating
+   light motes, a slow glow on the doorway. No media files, nothing external. */
+.hero{position:relative;overflow:hidden;border-radius:0 0 22px 22px}
+.hero>*{position:relative;z-index:1}
+.hero-bg{position:absolute;inset:0;z-index:0;pointer-events:none;
+  background:
+    radial-gradient(ellipse 55% 42% at 50% 108%,rgba(233,185,73,.34) 0%,rgba(233,185,73,0) 70%),
+    radial-gradient(ellipse 38% 30% at 12% -6%,rgba(23,53,42,.14) 0%,rgba(23,53,42,0) 70%),
+    radial-gradient(ellipse 38% 30% at 88% -6%,rgba(23,53,42,.14) 0%,rgba(23,53,42,0) 70%);
+  animation:heroSheen 16s ease-in-out infinite alternate}
+@keyframes heroSheen{from{background-position:0 0,0 0,0 0}to{background-position:36px 10px,-24px 6px,24px 6px}}
+.hero-bg .arches{position:absolute;bottom:-14px;height:230px;width:150px;opacity:.16}
+.hero-bg .arches path{stroke:var(--gold);stroke-width:3;fill:none}
+.hero-bg .a1{left:-38px;animation:archDrift 26s ease-in-out infinite alternate}
+.hero-bg .a2{right:-30px;animation:archDrift 32s ease-in-out infinite alternate-reverse}
+.hero-bg .a3{left:44%;height:170px;width:110px;opacity:.09;animation:archDrift 38s ease-in-out infinite alternate}
+@keyframes archDrift{from{transform:translateX(0)}to{transform:translateX(20px)}}
+.hero-bg .mote{position:absolute;bottom:12px;width:6px;height:6px;border-radius:50%;
+  background:var(--gold-bright);opacity:0;animation:moteFloat 11s linear infinite}
+.hero-bg .m1{left:22%;animation-delay:0s}
+.hero-bg .m2{left:34%;animation-delay:3.4s;width:4px;height:4px}
+.hero-bg .m3{left:49%;animation-delay:1.8s}
+.hero-bg .m4{left:61%;animation-delay:5.6s;width:5px;height:5px}
+.hero-bg .m5{left:72%;animation-delay:2.7s;width:4px;height:4px}
+.hero-bg .m6{left:83%;animation-delay:7.3s}
+@keyframes moteFloat{0%{transform:translateY(0);opacity:0}12%{opacity:.75}70%{opacity:.5}100%{transform:translateY(-215px);opacity:0}}
+.doorway{animation:doorGlow 7s ease-in-out infinite alternate}
+@keyframes doorGlow{from{box-shadow:inset 0 0 0 10px #17352a,inset 0 0 60px rgba(23,53,42,.45),0 10px 34px rgba(138,106,20,.28)}
+  to{box-shadow:inset 0 0 0 10px #17352a,inset 0 0 74px rgba(23,53,42,.38),0 12px 46px rgba(201,160,47,.45)}}
+@media (prefers-reduced-motion: reduce){
+  .hero-bg,.hero-bg .arches,.hero-bg .mote,.doorway{animation:none}
+  .hero-bg .mote{display:none}
+}
+
+/* Project icons: one inline SVG per card, in a gold-ringed chip */
+.picon{display:inline-flex;align-items:center;justify-content:center;width:42px;height:42px;
+  border:1.5px solid var(--gold);border-radius:50%;background:#fff8e1;color:#8a6a14;
+  vertical-align:-12px;margin-right:.55rem}
+.picon svg{width:23px;height:23px;fill:none;stroke:currentColor;stroke-width:1.7;
+  stroke-linecap:round;stroke-linejoin:round}
+.card h3 .picon{vertical-align:-13px}
+
+/* Follow-the-network embeds and profile cards */
+.embed-card iframe{width:100%;border:0;border-radius:10px;background:#fff}
+.embed-frame{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#fff;line-height:0}
+.embed-frame iframe{width:100%;border:0}
+.embed-note{font-size:.86rem;color:var(--ink-soft);margin-top:.45rem}
+.follow-links{list-style:none;padding:0;margin:.4rem 0}
+.follow-links li{margin:.42rem 0}
+.handle{font-weight:700;color:var(--ink)}
+
+/* Footer fabric: sitemap columns + compact social strip */
+.sitemap{display:grid;grid-template-columns:repeat(3,1fr);gap:10px 26px;margin-bottom:1rem}
+@media(max-width:680px){.sitemap{grid-template-columns:1fr 1fr}}
+.sitemap h4{margin:.1rem 0 .4rem;font-size:.86rem;text-transform:uppercase;letter-spacing:.07em;color:var(--ink)}
+.sitemap a{display:block;padding:.13rem 0;font-size:.94rem;text-decoration:none}
+.sitemap a:hover{text-decoration:underline}
+.socialstrip{border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+  padding:.55rem 0;font-size:.94rem;margin:.4rem 0 .8rem}
+.socialstrip a{font-weight:700;text-decoration:none}
+.socialstrip a:hover{text-decoration:underline}

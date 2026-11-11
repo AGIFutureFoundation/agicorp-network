@@ -1,0 +1,155 @@
+PROJECTS — AGI Corp Network (plain-text mirror of https://www.agicorp.network/projects.html)
+STATUS: AGI Corp is in formation; no securities are offered.
+
+The full directory — one entry per project, each with its verified status
+line and its own door. Filed means filed; planned means planned; an internal
+programme is the family's own map, not a filing.
+
+THE FILED HOLDINGS
+
+1. AGI Future Foundation [Filed · CA Nonprofit Public Benefit Corp]
+The family's steward: it holds the projects to mission standards and runs the
+publishing, research, and series & projects programme.
+Status: Entity No. B20260196664 · articles filed April 24, 2026 · 995 Market
+St, AGI Lab -10, San Francisco, CA 94103.
+What it runs: Long-form articles and magazine features; the series & projects
+programme; research lines (an ALS researcher desk, bioacoustics, a
+derived-compound library — every item labelled at the strength of its
+evidence); the network's books and film programme.
+Contact: x@agifuturefoundation.org · Support is accepted only through the
+giving surface on the Foundation's own site.
+Site: https://www.agifuturefoundation.org/
+Follow: Facebook https://www.facebook.com/AGIFutureFoundation · Instagram
+https://www.instagram.com/agifuturefoundation/
+
+2. AGI Fellowship [Filed · CA Nonprofit Religious Corp]
+A deep hub for all faiths and a resource for communities and those in need —
+bringing technology to nonprofits and training to the people who run them.
+Status: Entity No. B20260229217 · articles filed May 13, 2026 · 111 Maiden Ln
+#540, San Francisco, CA 94108.
+What it runs: Dozens of live articles and features, faith guides and faith
+bridges, formation and training programmes. Its ministers are ordained
+online, stated plainly. Joining is steward-gated by humans through the
+Fellowship's own site. The Fellowship also hosts the Ask Humanity research
+project.
+Contact: agent@agifellowship.church · Giving is accepted only through the
+giving surface on the Fellowship's own site.
+Site: https://www.agifellowship.church/
+Follow: Facebook https://www.facebook.com/people/AGI-Fellowship/61596213130904/
+· Instagram https://www.instagram.com/agifellowship/
+
+PROGRAMMES AND PROJECTS
+
+3. BuilderSpace [Planned · Tour Jan 8 – May 1, 2027]
+"A place for all to build and become." BuilderSpace brings the coding and
+startup world from San Francisco and Silicon Valley to the towns on its tour
+— the new tech region — to empower them, match them with potential employers,
+and bridge the tech divide, through events, hackathons, and builder days.
+Status: Planned. Online onboarding sessions run first — Session 01 is
+Thursday, November 12, 2026, 6:00–7:30 PM CT — and the in-person tour is
+planned across 16 events in Louisiana and Nebraska in early 2027.
+Universities, employers, and sponsors are being gathered now; no sponsorship
+is confirmed until it is signed in writing.
+Contact: events@builderspace.tech · The BuilderSpace site is in build;
+sessions are listed on Luma meanwhile.
+About: https://www.agicorp.network/network.html#builderspace
+Follow: Facebook https://www.facebook.com/people/BuilderSpace/61596095926445/
+
+4. SmartCiti.X [Internal programme · W3 Series 10]
+A city-scale training world: trades, robotics, and skills learned by doing —
+a holodeck build whose map service is proven locally, with worlds attaching
+to public immersive platforms as their hosting lands.
+Status: Internal programme. SmartCiti.X is Series 10 on the family's W3
+series list (33 named sub-series in an internal list dated April 2026) — a
+programme map, not a corporate filing, and it is not presented as formed,
+funded, or offered. No worlds are live on public immersive platforms yet.
+Contact: via the Foundation desk, x@agifuturefoundation.org
+About: https://www.agicorp.network/network.html#worlds
+Follow: Facebook https://www.facebook.com/people/SmartCiti-X/61596590964426/
+
+5. WorldForge [Open · Browser build]
+A browser full of worlds — 41 built worlds in the public WorldForge-Browser
+build, from the Holodeck to Cognition, Locator, Biota, Empathic, and
+Diagnostic. The family's stories, games, and training programmes live in them.
+Status: Open today as a browser build, alongside two world catalogues kept
+strictly apart: the 41-world public build and the chartered-worlds set whose
+immersive-platform attach is in progress (RP1 CompanyId 130 is confirmed; no
+world is live inside RP1.com yet). WorldForge Frequencies, the network's
+music channel, is in formation beside it.
+Contact: via the network front door, x@agicorp.network
+About: https://www.agicorp.network/network.html#worlds
+Follow: Facebook https://www.facebook.com/people/WorldForge/61596168372184/
+
+6. Ask Humanity — The Alignment Interviews [Open now · Research]
+Twenty questions for the age of AGI — on work, faith, family, machines, and
+what a good future asks of us. Anyone may answer, anonymously or named, in
+text, voice, or video, at any length.
+Status: Open now. The answers form The Human Graph, a dataset the family is
+building in the open; the dataset is labelled planned and no results or
+counts are claimed for it yet.
+Contact: research desk, research@fellowship.chat
+Site: https://ask.fellowship.chat/
+Follow: Facebook https://www.facebook.com/people/Ask-Humanity/61596616223353/
+· Instagram https://www.instagram.com/askhumanityagi/
+
+7. Founders.Podcast [In production · Podcast]
+Founder stories from the scene itself — Episode 1, "The Scene Is the
+Strategy," is produced. Every episode carries a Credits Corner for the
+builders and backers who make the work possible, and affiliate links always
+run with disclosure.
+Status: In production. Episode 1 is produced and private; publishing is
+decided per episode, and nothing is public until an episode is released on
+the show's own channels.
+Contact: via the network front door, x@agicorp.network
+About: https://www.agicorp.network/network.html#podcast
+
+8. AURA Maternal [In development · Screening support]
+A screening-support and referral tool: it flags change against a person's own
+pattern and points to help early.
+Status: In development. AURA is a support tool — it does not diagnose
+anything, and it is described that way everywhere it appears.
+Contact: via the Foundation desk, x@agifuturefoundation.org
+About: https://www.agicorp.network/network.html
+
+9. Hoops & Heart [Training world · In the network]
+A basketball training world where the core skill is emotional intelligence —
+teamwork and communication trained as scored reps: communication callouts,
+assist chains, help-and-recover, pass-first play.
+Status: In active build inside the network's worlds programme. Players train
+with Coach Chris, the in-world coach. Inspired by broadcast basketball
+presentation; no licensed art, logos, or real players or teams appear
+anywhere in it.
+Contact: via the network front door, x@agicorp.network
+About: https://www.agicorp.network/network.html
+
+10. The Agent Fleet [Listed · Virtuals ACP]
+Named AI agents with named jobs: Omega (coordination), Tactile (workflow
+plans), ALS Researcher (research desk), CMMC Advisor (compliance guidance),
+and WAVE (bioacoustics). Agents prepare and operate; humans decide and sign.
+Status: Each agent is listed on Virtuals ACP; all are currently offline while
+hosting is set up, and their pages say so. The full fleet table — what each
+agent is for, and its status — lives on the network page.
+Contact: via the network front door, x@agicorp.network
+Meet the fleet: https://www.agicorp.network/network.html#fleet
+
+ALSO FROM THE NETWORK
+
+Books — five books rendered from the network's research and building; prices
+and editions are announced on the holdings' own pages.
+Smart Citi, the game — a card game built from the worlds: 939 master cards
+across 41 worlds. Not minted, not for sale.
+WorldForge Frequencies — the network's music channel in formation: techno
+sessions, mood sets, longevity tones, and music made for agents as well as
+humans.
+The union training simulations — training simulations inside the worlds
+programme, described as simulations; no certification is claimed for them.
+
+Working with any of these starts on the Work With Us page —
+https://www.agicorp.network/outreach.html — each collaboration has its own
+door, and each holding keeps its own books.
+
+AGI Corp is in formation; no securities are offered. The AGI Future Foundation
+and the AGI Fellowship are California nonprofit corporations; nothing on this
+site states or implies IRS tax-exempt status for any entity. Planned
+programmes are labelled planned. This site is maintained with AI-agent
+assistance.
