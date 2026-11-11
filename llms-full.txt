@@ -8,8 +8,8 @@ This site is maintained with AI-agent assistance, under human direction.
 
 ## Identity
 
-AGI Corp is the front door and coordinating name for a family of corporate houses, programmes,
-worlds, and agents. Two houses are filed California nonprofits with their own boards and books.
+AGI Corp is the front door and coordinating name for a family of corporate holdings, programmes,
+worlds, and agents. Two corporate holdings are filed California nonprofits with their own boards and books.
 The rest are programmes and projects run inside that stewardship, each labelled for exactly what
 it is: filed, planned, in production, internal programme, or in formation.
 
@@ -128,7 +128,7 @@ it is: filed, planned, in production, internal programme, or in formation.
 ## Also from the network (stated on the projects page)
 
 - Books: five books rendered from the network's research and building; prices and editions are
-  announced on the houses' own pages.
+  announced on the corporate holdings' own pages.
 - Smart Citi, the game: a card game built from the worlds — 939 master cards across 41 worlds.
   Not minted, not for sale.
 - The union training simulations: training simulations inside the worlds programme, described as
