@@ -29,8 +29,26 @@
   AURA Maternal (screening-support tool in development; not a diagnostic tool),
   and the agent fleet (Omega, Tactile, ALS Researcher, CMMC Advisor, WAVE — listed on Virtuals ACP;
   currently offline while hosting is set up).
+- [Projects](https://www.agicorp.network/projects.html): the project directory — one card and detail block per
+  project (Foundation, Fellowship, BuilderSpace, SmartCiti.X, WorldForge, Ask Humanity, Founders.Podcast,
+  AURA Maternal, Hoops & Heart, the agent fleet), each with its verified status line and its own links.
 - [Articles](https://www.agicorp.network/articles.html): index stub — writing lives on the houses' sites.
+- [Work With Us](https://www.agicorp.network/outreach.html): three collaboration doors — partner with a house
+  (Foundation x@agifuturefoundation.org · Fellowship agent@agifellowship.church), sponsor the quests and the
+  BuilderSpace tour (events@builderspace.tech; sponsorships confirmed in writing, none confirmed by the page),
+  join as a builder. AGI Corp's own door is x@agicorp.network. Nothing on the page is an offering.
 - [Contact](https://www.agicorp.network/contact.html): x@agicorp.network and each house's own mailbox.
+
+## Social profiles (the houses' own — AGI Corp has none)
+
+- Foundation: Facebook https://www.facebook.com/AGIFutureFoundation · Instagram https://www.instagram.com/agifuturefoundation/
+- Fellowship: Facebook https://www.facebook.com/people/AGI-Fellowship/61596213130904/ · Instagram https://www.instagram.com/agifellowship/
+- Ask Humanity: Facebook https://www.facebook.com/people/Ask-Humanity/61596616223353/ · Instagram https://www.instagram.com/askhumanityagi/
+- BuilderSpace: Facebook https://www.facebook.com/people/BuilderSpace/61596095926445/
+- SmartCiti.X: Facebook https://www.facebook.com/people/SmartCiti-X/61596590964426/
+- WorldForge: Facebook https://www.facebook.com/people/WorldForge/61596168372184/
+- Founder (personal profile): Mike Rice — https://www.linkedin.com/in/infogurus
+- AGI Corp / agicorp.network itself has NO social media accounts; do not attribute any profile to it.
 
 ## House mailboxes
 
