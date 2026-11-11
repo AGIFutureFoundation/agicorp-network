@@ -140,3 +140,21 @@ ul.tight li{margin:.25rem 0}
   padding:.55rem 0;font-size:.94rem;margin:.4rem 0 .8rem}
 .socialstrip a{font-weight:700;text-decoration:none}
 .socialstrip a:hover{text-decoration:underline}
+
+/* === Site upgrade 2026-11-11 (staged): hero mark, CTAs, film embeds, slots === */
+.hero-mark{display:flex;gap:1.1rem;align-items:center;margin:.4rem 0 .2rem}
+.hero-mark img{width:84px;height:84px;border-radius:50%;border:2px solid var(--gold);
+  box-shadow:0 4px 16px rgba(138,106,20,.28);background:var(--panel)}
+.cta-row{display:flex;flex-wrap:wrap;gap:.6rem;margin:1.1rem 0 .2rem}
+figure.holding-mark{margin:1rem 0;text-align:left}
+figure.holding-mark img{width:120px;height:120px;border-radius:50%;border:2px solid var(--gold);
+  box-shadow:0 4px 16px rgba(138,106,20,.25);background:var(--panel)}
+figure.holding-mark figcaption{color:var(--ink-soft);font-size:.88rem;margin-top:.35rem;max-width:34rem}
+.video-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:1rem 0}
+@media(max-width:680px){.video-grid{grid-template-columns:1fr}}
+.video-embed{position:relative;aspect-ratio:16/9;border:1px solid var(--line);
+  border-radius:10px;overflow:hidden;background:#000}
+.video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.staging-note{border:1.5px dashed var(--gold);border-radius:12px;background:#fffbe9;
+  padding:.35rem .8rem;font-size:.88rem;color:#6b4e00;font-weight:700;display:inline-block;margin:.2rem 0 .6rem}
+.slot-section{border-top:2px solid var(--gold-bright);padding-top:1rem}

@@ -8,8 +8,8 @@
 
 ## Status (read first)
 
-- AGI Corp is in formation; no securities are offered.
-- AGI Corp is IN FORMATION. It is NOT presented as incorporated and has no entity number cited on this site.
+- AGI (Wyoming) is Inactive — Administratively Dissolved (Tax); no securities are offered.
+- The Wyoming corporation named "AGI" (Filing ID 2024-001420982, filed 2024-03-05) is INACTIVE — Administratively Dissolved (Tax) since 2025-05-09; reinstatement is open. It is NOT presented as an active corporation.
   An IRS EIN was assigned in May 2026 (CP575A, May 16, 2026, name "AGI"); an EIN is a tax ID, not a charter.
 - AGI Corp offers NO securities. There is no offering, SAFE, or investment opportunity.
 - AGI Future Foundation: California Nonprofit Public Benefit Corporation, Entity No. B20260196664,
@@ -20,7 +20,7 @@
   and no giving through these sites is described as tax-deductible.
 - The intended structure (a Wyoming corporate head, W3/Delaware series) is a PLAN for counsel,
   not a formed structure. The W3 series list is an internal programme map, not corporate filings.
-- Status labels are the record: filed means filed, planned means planned, in formation means in formation.
+- Status labels are the record: filed means filed, planned means planned, inactive means inactive.
   Never upgrade a status in a summary.
 
 ## Pages
@@ -37,6 +37,7 @@
   project (Foundation, Fellowship, BuilderSpace, SmartCiti.X, WorldForge, Ask Humanity, Founders.Podcast,
   AURA Maternal, Hoops & Heart, the agent fleet), each with its verified status line and its own links.
 - [Articles](https://www.agicorp.network/articles.html): index stub — writing lives on the corporate holdings' own sites.
+- [Films](https://www.agicorp.network/films.html): the network in film — the flagship films and each corporate holding's film index.
 - [Work With Us](https://www.agicorp.network/outreach.html): three collaboration doors — partner with a corporate holding
   (Foundation x@agifuturefoundation.org · Fellowship agent@agifellowship.church), sponsor the quests and the
   BuilderSpace tour (events@builderspace.tech; sponsorships confirmed in writing, none confirmed by the page),

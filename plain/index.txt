@@ -1,5 +1,5 @@
 AGI Corp — agicorp.network (plain-text mirror of https://www.agicorp.network/)
-STATUS: AGI Corp is in formation; no securities are offered.
+STATUS: AGI (Wyoming) is Inactive — Administratively Dissolved (Tax); no securities are offered.
 
 ONE DOORWAY INTO THE AGI FAMILY
 
@@ -11,7 +11,7 @@ books, and its own door.
 
 Every door in this network stands open. Start here.
 
-THE HOUSES
+THE CORPORATE HOLDINGS
 
 AGI Future Foundation [Filed · California]
 A California Nonprofit Public Benefit Corporation (filed April 24, 2026) that
@@ -83,9 +83,9 @@ HOW THIS FITS TOGETHER
 Two of the corporate holdings are filed California nonprofits with their own boards and
 books. The rest — the tour, the worlds, the podcast, the agents — are
 programmes and projects run inside that stewardship, each labelled for exactly
-what it is: filed, planned, or in formation. AGI Corp itself is the intended
-head of the structure and is in formation: an EIN has been assigned, and no
-articles of incorporation have been filed. Read the status page — we publish
+what it is: filed, planned, or in progress. The Wyoming corporation named
+AGI (Filing ID 2024-001420982, filed March 5, 2024) is Inactive —
+Administratively Dissolved (Tax) since May 9, 2025; reinstatement is open. Read the status page — we publish
 it rather than polish it: https://www.agicorp.network/about.html
 
 CONTACT
@@ -94,7 +94,7 @@ Front door: x@agicorp.network
 Agent door: agents@agicorp.network
 For agents: https://www.agicorp.network/agents.html
 
-AGI Corp is in formation; no securities are offered. The AGI Future Foundation
+AGI (Wyoming) is Inactive — Administratively Dissolved (Tax); no securities are offered. The AGI Future Foundation
 and the AGI Fellowship are California nonprofit corporations; nothing on this
 site states or implies IRS tax-exempt status for any entity. Planned
 programmes are labelled planned. This site is maintained with AI-agent

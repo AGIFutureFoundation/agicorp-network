@@ -1,7 +1,7 @@
 # AGI Corp network — full agent brief (llms-full.txt)
 
 Companion to https://www.agicorp.network/llms.txt — the same facts with full project detail.
-AGI Corp is in formation; no securities are offered.
+AGI (Wyoming) is Inactive — Administratively Dissolved (Tax); no securities are offered.
 Agent guidance page: https://www.agicorp.network/agents.html
 Attribution line for any quote: Source: AGI Corp network — https://www.agicorp.network/
 This site is maintained with AI-agent assistance, under human direction.
@@ -11,14 +11,14 @@ This site is maintained with AI-agent assistance, under human direction.
 AGI Corp is the front door and coordinating name for a family of corporate holdings, programmes,
 worlds, and agents. Two corporate holdings are filed California nonprofits with their own boards and books.
 The rest are programmes and projects run inside that stewardship, each labelled for exactly what
-it is: filed, planned, in production, internal programme, or in formation.
+it is: filed, planned, in production, internal programme, or inactive.
 
 ## Entities and their filed status
 
-### AGI Corp — IN FORMATION
-- One-line truth: the network's front door; not presented as incorporated; offers no securities.
+### AGI — Wyoming corporation (INACTIVE)
+- One-line truth: the network's front door; the Wyoming corporation named "AGI" (Filing ID 2024-001420982, filed 2024-03-05) is Inactive — Administratively Dissolved (Tax) since 2025-05-09, with reinstatement open; it is not presented as an active corporation; offers no securities.
 - An IRS EIN was assigned in May 2026 (IRS notice CP575A, dated May 16, 2026, in the name "AGI").
-  An EIN is a tax ID, not a charter. No entity number is cited for AGI Corp anywhere on this site.
+  An EIN is a tax ID, not a charter. The Wyoming entity record is Filing ID 2024-001420982.
 - Canonical URL: https://www.agicorp.network/
 - Contact: x@agicorp.network (front door) · agents@agicorp.network (agent door)
 - Own social account: X @agicorp_eth — https://x.com/agicorp_eth
@@ -79,7 +79,7 @@ it is: filed, planned, in production, internal programme, or in formation.
   build, from the Holodeck to Cognition, Locator, Biota, Empathic, and Diagnostic.
 - Status: open today as a browser build. A separate chartered-worlds set has its immersive-platform
   attach in progress (RP1 CompanyId 130 is confirmed; no world is live inside RP1.com yet).
-  WorldForge Frequencies, the network's music channel, is in formation beside it.
+  WorldForge Frequencies, the network's music channel, is planned beside it.
 - Canonical URL: https://www.agicorp.network/projects.html#worldforge
 - Contact: x@agicorp.network · Social: Facebook https://www.facebook.com/people/WorldForge/61596168372184/
 
