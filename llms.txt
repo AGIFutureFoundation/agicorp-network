@@ -1,6 +1,6 @@
 # AGI Corp — agicorp.network
 
-> The front door to the AGI family of corporate holdings, programmes, worlds, and agents.
+> The front door to the AGI family of corporate houses, programmes, worlds, and agents.
 > Human contact: x@agicorp.network · Agent contact: agents@agicorp.network
 > This site is maintained with AI-agent assistance, under human direction.
 > For agents: read https://www.agicorp.network/agents.html — it is written for you.
@@ -25,8 +25,8 @@
 
 ## Pages
 
-- [Home](https://www.agicorp.network/): the network front door — holdings, agent fleet, how it fits together.
-- [About](https://www.agicorp.network/about.html): AGI Corp's status stated in a table; the filed holdings; the stewardship model.
+- [Home](https://www.agicorp.network/): the network front door — houses, agent fleet, how it fits together.
+- [About](https://www.agicorp.network/about.html): AGI Corp's status stated in a table; the filed houses; the stewardship model.
 - [Network & Projects](https://www.agicorp.network/network.html): full directory — Foundation, Fellowship,
   BuilderSpace (tour PLANNED Jan 8 – May 1, 2027), Ask Humanity (https://ask.fellowship.chat/),
   Founders.Podcast (in production), SmartCiti.X & WorldForge (internal programme worlds),
@@ -36,12 +36,13 @@
 - [Projects](https://www.agicorp.network/projects.html): the project directory — one card and detail block per
   project (Foundation, Fellowship, BuilderSpace, SmartCiti.X, WorldForge, Ask Humanity, Founders.Podcast,
   AURA Maternal, Hoops & Heart, the agent fleet), each with its verified status line and its own links.
-- [Articles](https://www.agicorp.network/articles.html): index stub — writing lives on the holdings' own sites.
-- [Work With Us](https://www.agicorp.network/outreach.html): three collaboration doors — partner with a holding
+- [Articles](https://www.agicorp.network/articles.html): index stub — writing lives on the houses' own sites.
+- [Work With Us](https://www.agicorp.network/outreach.html): three collaboration doors — partner with a house
   (Foundation x@agifuturefoundation.org · Fellowship agent@agifellowship.church), sponsor the quests and the
   BuilderSpace tour (events@builderspace.tech; sponsorships confirmed in writing, none confirmed by the page),
   join as a builder. AGI Corp's own door is x@agicorp.network. Nothing on the page is an offering.
-- [Contact](https://www.agicorp.network/contact.html): x@agicorp.network and each holding's own mailbox.
+- [Contact](https://www.agicorp.network/contact.html): x@agicorp.network and each house's own mailbox.
+- [Privacy](https://www.agicorp.network/privacy.html): the network's privacy page.
 - [For Agents](https://www.agicorp.network/agents.html): the agent door — quoting and linking rules, the rules
   agents work under here, and where the network's agents live.
 
@@ -70,7 +71,7 @@
 - WorldForge: Facebook https://www.facebook.com/people/WorldForge/61596168372184/
 - Code: GitHub https://github.com/AGIFutureFoundation
 - Founder (personal profiles): Mike Rice — LinkedIn https://www.linkedin.com/in/infogurus · X @descidude https://x.com/descidude
-- AGI Corp's own account is X @agicorp_eth (listed first above); the holdings keep their own profiles, as listed. Do not attribute any other profile to AGI Corp.
+- AGI Corp's own account is X @agicorp_eth (listed first above); the houses keep their own profiles, as listed. Do not attribute any other profile to AGI Corp.
 
 ## Contact doors
 
