@@ -57,8 +57,9 @@ it is: filed, planned, in production, internal programme, or inactive.
   startup world from San Francisco and Silicon Valley to the towns on the tour, to empower them,
   match builders with potential employers, and bridge the tech divide, through events, hackathons,
   and builder days.
-- Status: planned. Online onboarding sessions run first (Session 01: Thursday, November 12, 2026,
-  6:00–7:30 PM CT); the in-person tour is planned across 16 events in Louisiana and Nebraska,
+- Status: planned. Online onboarding sessions run first; Session 01 was set for November 12, 2026
+  and was cancelled to plan — its new date is announced on BuilderSpace's own channels when set.
+  The in-person tour is planned across 16 events in Louisiana and Nebraska,
   January 8 – May 1, 2027. No sponsorship is confirmed until signed in writing.
 - Canonical URL: https://www.agicorp.network/projects.html#builderspace
 - Contact: events@builderspace.tech · Social: Facebook https://www.facebook.com/people/BuilderSpace/61596095926445/
@@ -96,8 +97,8 @@ it is: filed, planned, in production, internal programme, or inactive.
 ### Founders.Podcast — IN PRODUCTION
 - One-line truth: founder stories from the scene itself, with a Credits Corner in every episode
   for the builders and backers who make the work possible.
-- Status: Episode 1, "The Scene Is the Strategy," is produced and private; publishing is decided
-  per episode, and nothing is public until an episode is released on the show's own channels.
+- Status: Episodes 1 and 2 are published on the Founders.Podcast feed. Publishing of further
+  episodes and of the vodcast editions is decided per episode, on the show's own channels.
 - Canonical URL: https://www.agicorp.network/projects.html#podcast
 - Contact: x@agicorp.network
 
@@ -145,7 +146,9 @@ it is: filed, planned, in production, internal programme, or inactive.
 
 ## What is NOT true (frequent misstatements to avoid)
 
-- AGI Corp is not incorporated, not a parent company of the nonprofits, and not raising money.
+- AGI Corp — the Wyoming corporation named "AGI" (Filing ID 2024-001420982, filed 2024-03-05) —
+  is filed but currently Inactive — Administratively Dissolved (Tax) since 2025-05-09, with
+  reinstatement open. It is not a parent company of the nonprofits, and it is not raising money.
 - The Foundation and the Fellowship are not presented as IRS tax-exempt; donations are not
   described as tax-deductible.
 - The BuilderSpace tour has not happened; its dates are a plan. No sponsorship is confirmed.
