@@ -158,3 +158,176 @@ figure.holding-mark figcaption{color:var(--ink-soft);font-size:.88rem;margin-top
 .staging-note{border:1.5px dashed var(--gold);border-radius:12px;background:#fffbe9;
   padding:.35rem .8rem;font-size:.88rem;color:#6b4e00;font-weight:700;display:inline-block;margin:.2rem 0 .6rem}
 .slot-section{border-top:2px solid var(--gold-bright);padding-top:1rem}
+
+/* ============================================================
+   AGENTIC NETWORK DESIGN SYSTEM v1 — AGI Corp flagship proof
+   Shared craft layer: deep premium shell, display serif,
+   larger type scale, quieter action hierarchy, elevated cards,
+   stronger focus and a calmer section rhythm. AGI Corp keeps
+   its deep-green + gold identity and doorway motif.
+   ============================================================ */
+:root{
+  --ds-ink-950:#071a14;
+  --ds-ink-900:#0d2b21;
+  --ds-ink-800:#17352a;
+  --ds-paper-50:#fffdf6;
+  --ds-paper-100:#faf6ec;
+  --ds-paper-200:#f1ead8;
+  --ds-text-700:#40564b;
+  --ds-gold-600:#8a5f00;
+  --ds-gold-500:#c9a227;
+  --ds-gold-300:#e9b949;
+  --ds-focus:#0e7c7b;
+  --ds-radius-lg:20px;
+  --ds-radius-xl:28px;
+  --ds-shadow-md:0 14px 36px rgba(7,26,20,.13);
+  --ds-shadow-lg:0 24px 60px rgba(7,26,20,.18);
+  --ds-display:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+}
+html{scroll-padding-top:1.25rem}
+body.design-v1{
+  background:
+    radial-gradient(ellipse 80% 32rem at 50% -12rem,rgba(233,185,73,.16),transparent 68%),
+    var(--ds-paper-100);
+  color:#17251f;
+  font-size:16.5px;
+  line-height:1.65;
+  text-rendering:optimizeLegibility;
+}
+body.design-v1 ::selection{background:var(--ds-gold-300);color:#241a00}
+body.design-v1 a{text-underline-offset:3px}
+body.design-v1 a:focus-visible,
+body.design-v1 .btn:focus-visible,
+body.design-v1 .navlink:focus-visible{
+  outline:3px solid var(--ds-focus);outline-offset:3px;border-radius:6px;
+}
+body.design-v1 .wrap{max-width:72rem;padding-left:clamp(1.25rem,4vw,3rem);padding-right:clamp(1.25rem,4vw,3rem)}
+body.design-v1 .statusbar{
+  background:var(--ds-ink-950);color:#e9e2c8;font-size:.88rem;letter-spacing:.01em;
+}
+body.design-v1 .statusbar .wrap{min-height:2.5rem}
+body.design-v1 header.site{
+  position:sticky;top:0;z-index:50;
+  background:rgba(255,253,246,.9);
+  border-bottom:1px solid rgba(201,162,39,.38);
+  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  box-shadow:0 8px 28px rgba(7,26,20,.06);
+}
+body.design-v1 .nav{min-height:4.5rem;padding:.65rem 0;gap:.35rem 1rem}
+body.design-v1 .brand{font-family:var(--ds-display);font-size:1.28rem;font-weight:700;letter-spacing:-.01em}
+body.design-v1 .nav a.navlink{
+  color:var(--ds-text-700);font-size:.94rem;font-weight:650;
+  padding:.55rem .35rem;border-radius:8px;
+}
+body.design-v1 .nav a.navlink:hover{color:var(--ds-ink-800);background:rgba(233,185,73,.16);text-decoration:none}
+body.design-v1 main .wrap{padding-bottom:6rem}
+body.design-v1 h1,body.design-v1 h2{font-family:var(--ds-display);font-weight:650;color:var(--ds-ink-900)}
+body.design-v1 h2{
+  font-size:clamp(2rem,4vw,3rem);line-height:1.08;letter-spacing:-.018em;
+  border-bottom:0;padding-bottom:0;margin-bottom:.85rem;
+}
+body.design-v1 h2::after{
+  content:"";display:block;width:4.5rem;height:3px;border-radius:999px;
+  background:linear-gradient(90deg,var(--ds-gold-500),rgba(201,162,39,0));margin-top:.8rem;
+}
+body.design-v1 h3{font-size:1.22rem;line-height:1.3;color:var(--ds-ink-900)}
+body.design-v1 section{margin:clamp(3.5rem,7vw,5.5rem) 0}
+body.design-v1 .lede{font-size:1.16rem;line-height:1.62;color:var(--ds-text-700);max-width:46rem}
+body.design-v1 .card{
+  background:linear-gradient(180deg,var(--ds-paper-50),#fffaf0);
+  border-color:rgba(151,119,37,.28);border-radius:var(--ds-radius-lg);
+  padding:1.5rem;box-shadow:0 10px 30px rgba(7,26,20,.07);
+  transition:transform 200ms cubic-bezier(.22,1,.36,1),box-shadow 200ms ease,border-color 200ms ease;
+}
+body.design-v1 .card:hover,body.design-v1 .card:focus-within{
+  transform:translateY(-2px);border-color:rgba(201,162,39,.72);box-shadow:var(--ds-shadow-md);
+}
+body.design-v1 .grid{gap:1.25rem;margin:1.5rem 0}
+body.design-v1 .pill{
+  min-height:1.75rem;padding:.22rem .7rem;font-size:.76rem;letter-spacing:.07em;text-transform:uppercase;
+}
+body.design-v1 .btn{
+  min-height:3rem;display:inline-flex;align-items:center;justify-content:center;
+  padding:.78rem 1.3rem;border-radius:999px;margin-top:.8rem;
+  box-shadow:0 8px 20px rgba(138,95,0,.18);
+  transition:transform 180ms cubic-bezier(.22,1,.36,1),background 180ms ease,box-shadow 180ms ease;
+}
+body.design-v1 .btn:hover{transform:translateY(-1px);box-shadow:0 12px 26px rgba(138,95,0,.22)}
+body.design-v1 .btn.ghost{box-shadow:none;background:rgba(255,253,246,.72)}
+body.design-v1 .filmslot{border-radius:var(--ds-radius-lg);box-shadow:var(--ds-shadow-md)}
+body.design-v1 footer.site{
+  background:var(--ds-ink-950);color:#d6ddcf;border-top:4px solid var(--ds-gold-500);margin-top:5rem;
+}
+body.design-v1 footer.site .wrap{padding-top:2.5rem;padding-bottom:3rem}
+body.design-v1 footer.site a{color:#e8dfc3}
+body.design-v1 footer.site .fineprint,body.design-v1 footer.site .founder{color:#b9c4b5}
+body.design-v1 footer.site .sitemap h4{color:#fff}
+body.design-v1 footer.site :focus-visible{outline-color:var(--ds-gold-300)}
+
+/* Home: turn the proven doorway composition into a deep flagship hero. */
+body.design-v1.home-page .hero{
+  margin-top:1.25rem;padding:clamp(2.6rem,6vw,5rem) clamp(1.25rem,5vw,4.5rem);
+  border:1px solid rgba(233,185,73,.4);border-radius:var(--ds-radius-xl);
+  background:
+    radial-gradient(ellipse 58% 45% at 50% 112%,rgba(233,185,73,.28),transparent 70%),
+    linear-gradient(145deg,var(--ds-ink-950),var(--ds-ink-800) 68%,#24513d);
+  color:#f7f1dc;box-shadow:var(--ds-shadow-lg);text-align:left;
+}
+body.design-v1.home-page .hero h1{
+  color:#fffdf6;font-size:clamp(2.9rem,6.4vw,4.9rem);line-height:.99;letter-spacing:-.025em;
+  max-width:12.5ch;margin:.8rem 0 1rem;
+}
+body.design-v1.home-page .hero h1 .gold{color:var(--ds-gold-300)}
+body.design-v1.home-page .hero .lede{color:#dce5d5;max-width:45rem}
+body.design-v1.home-page .hero .doorway{
+  width:min(42rem,100%);height:clamp(11rem,28vw,15rem);margin:0 auto;
+  border-radius:999px 999px 18px 18px;
+}
+body.design-v1.home-page .doorway-cap{color:#d9c98f}
+body.design-v1.home-page .hero-mark{margin-top:1.6rem}
+body.design-v1.home-page .hero-mark .mut{color:#cbd8c6!important}
+body.design-v1.home-page .hero .cta-row{gap:.75rem;margin:1.5rem 0 1.15rem}
+body.design-v1.home-page .hero .btn.ghost{color:#fffdf6;border-color:rgba(255,253,246,.75);background:rgba(255,253,246,.06)}
+body.design-v1.home-page .hero .formation{
+  background:rgba(255,248,225,.1);color:#f1df9a;border-color:rgba(233,185,73,.72);
+  border-radius:14px;max-width:46rem;line-height:1.5;
+}
+body.design-v1.home-page .hero .formation a{color:#fff3bd}
+
+/* Inner-page proof: About gets a quiet editorial opening without copy changes. */
+body.design-v1.inner-page main section:first-child{
+  padding:clamp(2rem,5vw,3.5rem);
+  background:linear-gradient(180deg,rgba(255,253,246,.96),rgba(241,234,216,.72));
+  border:1px solid rgba(151,119,37,.28);border-radius:var(--ds-radius-xl);
+  box-shadow:var(--ds-shadow-md);margin-top:1.25rem;
+}
+body.design-v1.inner-page main section:first-child h2{
+  font-size:clamp(2.4rem,5vw,3.8rem);max-width:14ch;
+}
+body.design-v1.inner-page table.status{
+  background:var(--ds-paper-50);border-radius:16px;overflow:hidden;
+  box-shadow:var(--ds-shadow-md);border-collapse:separate;border-spacing:0;
+}
+body.design-v1.inner-page table.status th{background:var(--ds-ink-800);color:#fff}
+body.design-v1.inner-page table.status th,body.design-v1.inner-page table.status td{padding:.85rem 1rem}
+
+@media(max-width:820px){
+  body.design-v1 .nav{justify-content:flex-start}
+  body.design-v1 .nav .spacer{display:none}
+  body.design-v1 .brand{width:100%}
+  body.design-v1 .nav a.navlink{padding:.55rem .25rem}
+  body.design-v1 section{margin:3.5rem 0}
+}
+@media(max-width:560px){
+  body.design-v1 .btn{width:100%}
+  body.design-v1.home-page .hero{padding:2rem 1.15rem;border-radius:22px}
+  body.design-v1.home-page .hero h1{font-size:2.75rem}
+  body.design-v1 .card{padding:1.25rem}
+}
+@media (prefers-reduced-motion: reduce){
+  body.design-v1 *,body.design-v1 *::before,body.design-v1 *::after{
+    animation:none!important;transition:none!important;scroll-behavior:auto!important;
+  }
+  body.design-v1 .card:hover,body.design-v1 .btn:hover{transform:none}
+}
+
