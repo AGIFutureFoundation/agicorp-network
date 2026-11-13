@@ -1,0 +1,73 @@
+/* The Agentic Network Store — shared storefront stylesheet
+   Design system v1 tokens (~/workspace/your_files/design-system-2026-11/DESIGN-SYSTEM.md)
+   One craft standard, several unmistakable doors: shared base, per-lane accent. */
+:root{
+  --ds-ink-950:#07131f; --ds-ink-900:#0b1e3a; --ds-ink-800:#123152; --ds-ink-700:#24476e;
+  --ds-paper-50:#fffdf7; --ds-paper-100:#faf6ec; --ds-paper-200:#f1ead8;
+  --ds-text-900:#17222d; --ds-text-700:#405364; --ds-text-300:#c7d2df;
+  --ds-line-light:#ddd3ba; --ds-line-dark:rgba(255,255,255,.18);
+  --ds-gold-600:#9a7200; --ds-gold-500:#c9a227; --ds-gold-300:#e8c85a;
+  --ds-focus-light:#0e7c7b; --ds-focus-dark:#e8c85a;
+  --ds-font-display:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  --ds-font-sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --ds-font-mono:ui-monospace,"SF Mono","Cascadia Mono",Consolas,monospace;
+  /* per-lane accents */
+  --lane-corp:#17352a;      --lane-corp-bright:#e9b949;
+  --lane-foundation:#0b1e3a;--lane-foundation-bright:#0e7c7b;
+  --lane-fellowship:#14213a;--lane-fellowship-bright:#0f766e;
+  --lane-builder:#124559;   --lane-builder-bright:#e4572e;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ds-paper-100);color:var(--ds-text-900);
+  font-family:var(--ds-font-sans);font-size:16px;line-height:1.65}
+.wrap{max-width:72rem;margin:0 auto;padding:0 clamp(1.25rem,4vw,3rem)}
+header.store-head{background:var(--ds-ink-900);color:var(--ds-paper-50);
+  padding:clamp(3rem,7vw,5rem) 0 clamp(2.5rem,5vw,4rem)}
+.eyebrow{font-size:.76rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--ds-gold-300);margin:0 0 1rem}
+h1{font-family:var(--ds-font-display);font-weight:700;letter-spacing:-.02em;
+  font-size:clamp(2.5rem,6vw,4.25rem);line-height:1.02;margin:0 0 1rem}
+h2{font-family:var(--ds-font-display);font-weight:600;font-size:clamp(1.75rem,4vw,2.5rem);
+  line-height:1.1;margin:0 0 .75rem}
+h3{font-size:1.25rem;line-height:1.3;font-weight:700;margin:0 0 .5rem}
+.lede{font-size:1.2rem;line-height:1.55;color:var(--ds-text-300);max-width:44rem;margin:0}
+header.store-head .lede{color:var(--ds-text-300)}
+main .lede{color:var(--ds-text-700)}
+section.lane{padding:clamp(3rem,7vw,5rem) 0;border-bottom:1px solid var(--ds-line-light)}
+.lane-tag{display:inline-block;font-family:var(--ds-font-mono);font-size:.78rem;font-weight:800;
+  letter-spacing:.07em;text-transform:uppercase;padding:.3rem .7rem;border-radius:999px;
+  border:1.5px solid currentColor;margin-bottom:1rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(17rem,1fr));gap:1.25rem;margin-top:2rem}
+.card{background:var(--ds-paper-50);border:1px solid var(--ds-line-light);border-radius:14px;
+  padding:1.5rem;display:flex;flex-direction:column;gap:.6rem}
+.card p{margin:0;color:var(--ds-text-700);font-size:.95rem}
+.price{font-family:var(--ds-font-display);font-size:1.6rem;font-weight:700;color:var(--ds-text-900)}
+.price small{font-size:.9rem;font-weight:400;color:var(--ds-text-700)}
+.chip{display:inline-block;align-self:flex-start;font-size:.72rem;font-weight:800;letter-spacing:.07em;
+  text-transform:uppercase;padding:.22rem .6rem;border-radius:999px;background:var(--ds-paper-200);
+  color:var(--ds-text-700)}
+.chip.live{background:#e3efe4;color:#1d5c2e}
+.chip.planned{background:#fdf3d7;color:#7a5b00}
+.chip.waitlist{background:#e8eef7;color:#274b73}
+.btn{margin-top:auto;display:inline-block;text-align:center;text-decoration:none;font-weight:800;
+  font-size:1rem;line-height:1.2;padding:.85rem 1.4rem;border-radius:10px;
+  background:var(--ds-ink-900);color:var(--ds-paper-50)}
+.btn:hover{background:var(--ds-ink-800)}
+.btn.gold{background:var(--ds-gold-300);color:var(--ds-ink-950)}
+.btn.disabled{background:var(--ds-paper-200);color:var(--ds-text-700);pointer-events:none}
+.btn.waitlist-btn{background:transparent;color:var(--ds-ink-900);border:2px solid var(--ds-ink-900)}
+.note{font-size:.88rem;color:var(--ds-text-700)}
+footer.store-foot{padding:2.5rem 0 3.5rem;font-size:.88rem;color:var(--ds-text-700)}
+footer.store-foot a{color:var(--ds-gold-600)}
+/* lane accent bars */
+.lane-foundation .lane-tag{color:var(--lane-foundation-bright)}
+.lane-fellowship .lane-tag{color:var(--lane-fellowship-bright)}
+.lane-builder .lane-tag{color:var(--lane-builder-bright)}
+.lane-corp .lane-tag{color:var(--lane-corp)}
+.holiday-band{background:var(--ds-ink-950);color:var(--ds-paper-50);border-radius:18px;
+  padding:clamp(2rem,5vw,3.5rem);margin:2rem 0}
+.holiday-band .lede{color:var(--ds-text-300)}
+.holiday-band .card{background:var(--ds-ink-900);border-color:var(--ds-line-dark)}
+.holiday-band .card p{color:var(--ds-text-300)}
+.holiday-band .price{color:var(--ds-paper-50)}
+.act{font-family:var(--ds-font-mono);font-size:.8rem;color:var(--ds-gold-300);letter-spacing:.05em}
