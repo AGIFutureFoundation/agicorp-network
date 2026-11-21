@@ -20,7 +20,7 @@
       ],
       "suppression": "Suppressed contacts are locked out of every queue on every surface; suppression is checked before a queue is built and again before any draft."
     },
-    "priceRegistry": "https://agifuturefoundation.org/prices.json",
+    "priceRegistry": "https://agicorp.network/prices.json",
     "x402FirstContact": [
       {
         "point": "hire-briefs",
